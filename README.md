@@ -1,1 +1,1 @@
-# Py
+# Pràctiques de YEA de Python
